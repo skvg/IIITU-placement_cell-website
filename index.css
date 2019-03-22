@@ -8,8 +8,8 @@ body {
   float: left;
   padding-left: 40px;
   padding-top: 20px;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 
 #logo_name {
@@ -33,7 +33,7 @@ body {
   float: left;
   height: 600px;
   border-radius: 10px;
-  padding-top: 50px;
+  padding-top: 11px;
 }
 
 div div div ul {
@@ -67,7 +67,7 @@ div div div ul li {
 #second {
   width: 78%;
   float: right;
-  height: 650px;
+  height: 550px;
   background-color: #4c76e8;
   border-radius: 10px;
 }
@@ -80,12 +80,52 @@ div div div ul li {
   width: 100%;
   height: 250px;
   background-image: url(footer-bg.png);
-  margin-top: -100px;
+  margin-top: -108px;
+}
+
+#footer-logo {
+  text-align: center;
+  padding-top: 140px;
+}
+
+#fb {
+  width: 50px;
+  float: left;
+  padding-left: 40%;
+}
+
+#youtube {
+  width: 50px;
+  float: left;
+}
+
+#linkedin {
+  width: 50px;
+  float: left;
+}
+
+#twitter {
+  width: 50px;
+  float: left;
+}
+
+#insta {
+  width: 50px;
+  float: left;
+}
+
+#footer-list {
+  text-align: center;
+  padding-top: 40px;
+  color: #000000;
+}
+
+div div p a {
+  color: #fff;
 }
 
 #copyright {
   background-color: #111;
-  margin-top: 0px;
 }
 
 #footer {
