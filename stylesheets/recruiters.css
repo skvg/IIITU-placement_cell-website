@@ -236,8 +236,15 @@ body {
     margin-left: 0px;
     padding-top: 10px;
     padding-left: 50px;
-    padding-bottom: 14px;
-    background-color: #e54949;
+    padding-bottom: 14px;  
+    padding-left: 70px;
+    background-color: #f27474;
+    color: #000000;
+    font-weight: 400;
+    font-size: 20px;
+    border-right: 2px;
+    border-right-color: #911b23;
+    border-right-style: solid;
     border-top: 2px;
     border-top-color: #911b23;
     border-top-style: solid;
@@ -246,7 +253,7 @@ body {
     display: block;
   }
   
-  #port8:hover {
+  /* #port8:hover {
     margin-left: 0px;
     padding-top: 10px;
     padding-left: 50px;
@@ -259,7 +266,7 @@ body {
     width: 300px;
     display: block;
   }
-  
+   */
   #port9 {
     margin-left: 0px;
     padding-top: 10px;
