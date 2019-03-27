@@ -367,14 +367,14 @@ div div div ul li a:visited {
 }
 
 div div div ul li a:active {
-  color: blue;
+  color: #ffffff;
   text-decoration: none;
 }
 
 #second {
   width: 78%;
   float: right;
-  height: 1000px;
+  height: 1030px;
   background-color: #eceaff;
   border-radius: 5px;
 }
@@ -400,7 +400,7 @@ div div div ul li a:active {
   font-size: 16px;
   margin-top: -15px;
   padding-top: 10px;
-  margin-bottom: -7px;
+  margin-bottom: -15px;
 }
 #messege{
   height: 260px;
@@ -409,6 +409,7 @@ div div div ul li a:active {
   background-image: url(../icons/wallpaper2.jpg);
   margin-left: 5%;
   margin-top: -32px;
+  color: #000000;
 }
 #leftq{
  margin-top: 15px;
@@ -441,6 +442,8 @@ div div div ul li a:active {
 #comity{
   font-size: 24px;
   font-weight: 400;
+  color: #000000;
+  padding-left: 5%;
 }
 #firstt{
   float: left;
