@@ -1,4 +1,4 @@
-# [IIITU](http://www.iiitu.ac.in/) placement cell --website
+# [IIITU placement cell --website](https://skvg.github.io/IIITU-placement_cell-website/)
 
 *****************
 
@@ -9,5 +9,7 @@ this website is build with the help of ----
 *****************
 
 *here is a look of main page of website*:
+*****************
+
 ![website main page](screenshot1.png)
 ![website main page](screenshot2.png)
