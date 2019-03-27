@@ -403,7 +403,7 @@ div div div ul li a:active {
   margin-bottom: -15px;
 }
 #messege{
-  height: 260px;
+  height: 275px;
   width: 90%;
   text-align: center;
   background-image: url(../icons/wallpaper2.jpg);
@@ -420,18 +420,18 @@ div div div ul li a:active {
   font-weight: 800;
   color: #e54949;
   font-size: 24px;
-  padding-top: 50px;
+  padding-top: 30px;
   margin-right: 20%;
   margin-left: 13%;
 }
 #rightq{
-  margin-top: -30px;
+  margin-top: -50px;
   float: right;
   margin-right: 20%;
 }
 #dir{
-  margin-top: 10px;
-  margin-right: -10%;
+  margin-top: -12px;
+  margin-right: 10%;
   float: right;
   font-size: 18px;
   font-weight: 600;
@@ -469,11 +469,11 @@ div div div ul li a:active {
 .tick2{
   float: left;
   padding-top: 25px;
-  padding-left: 30px;
+  padding-left: 25px;
 }
 .name{
   float: left;
-  margin-left: 15%;
+  margin-left: 10%;
   margin-top: 20px;
   font-size: 18px;
   color: #000000;
