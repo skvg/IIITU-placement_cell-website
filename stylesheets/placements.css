@@ -388,7 +388,7 @@ body {
     width: 50px;
     height: 40px;
     margin-left: 25%;
-    padding-top: 20px;
+    padding-top: 15px;
   }
   
   #headline {
@@ -396,6 +396,10 @@ body {
     margin-left: 20px;
     color: #000000;
     font-weight: lighter;
+    font-size: 16px;
+    margin-top: -15px;
+    padding-top: 10px;
+    margin-bottom: -7px;
   }
   
   #clear {
